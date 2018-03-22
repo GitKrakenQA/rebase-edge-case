@@ -1,1 +1,1 @@
-const rebaseIssueExists = true;
+const rebaseIssueExists = false;
